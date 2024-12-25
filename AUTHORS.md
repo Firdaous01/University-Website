@@ -20,4 +20,4 @@ Twitter: @amina_lkhoyaali
 Project Lead contributor
 [hanaa belaid] belaid.hanaa@etu.uae.ac.am
 GitHub: @hanaabelaid
-Note: This AUTHORS file is meant to credit and acknowledge the individuals who have contributed to this project. If you'd like to contribute to this project as well, please contact project lead and/or other contributors.
+
